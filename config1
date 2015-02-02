@@ -1,0 +1,5 @@
+inputString AGTA
+substringLength 0
+minOverallSubstr 0
+minScoreForSubstr 0
+gapsLimit -1

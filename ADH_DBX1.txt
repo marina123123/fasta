@@ -1,0 +1,4 @@
+>gi|113394|sp|P00325.2|ADH1B_HUMAN2 RecName: Full=Alcohol dehydrogenase 1B; AltName: Full=Alcohol dehydrogenase subunit beta [Homo sapiens]
+MSTAGKVIKCKAA
+>gi|113394|sp|P00325.2|ADH1B_HUMAN3 RecName: Full=Alcohol dehydrogenase 1B; AltName: Full=Alcohol dehydrogenase subunit beta [Homo sapiens]
+ATA
